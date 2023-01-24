@@ -7,6 +7,7 @@ Depends on:
 
 
 ### To get this running
+Clone this repo first
 * `git clone https://github.com/protonish/monotonic_multihead_attention.git`
 * `cd monotonic_multihead_attention`
 
@@ -20,6 +21,6 @@ Then, `cd run_scripts` from this directory.
 Set the path to this repo in the`ROOT` variable in each of the bash scripts.
 
 Finally, run the following scripts:
-* bash prepare-iwslt14.sh
-* bash train.sh
+* `bash prepare-iwslt14.sh`
+* `bash train.sh`
 
